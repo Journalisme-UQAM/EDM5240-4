@@ -1,8 +1,10 @@
+:rocket:
 # EDM5240
 PremierTravail
 Première version, lundi UQAM :
 
-# conding: utf-8
+# coding: utf-8
+## titre un peu plus petit
 
 import csv
 import requests
